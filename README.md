@@ -85,7 +85,6 @@ currently  : Learning React & Node.js/Express
       <h3>Rural AI Care</h3>
       <p>An AI-powered health checker designed for rural communities — helping users identify potential health concerns using AI analysis. Built to bridge the healthcare gap in underserved areas.</p>
       <p>
-        <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
         <a href="https://ruralcareai-joo7.onrender.com/" target="_blank">
           <img src="https://img.shields.io/badge/View%20App-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
         </a>
@@ -107,8 +106,10 @@ currently  : Learning React & Node.js/Express
     <td width="50%" valign="top">
       <h3>Kids Hobby Predictor <sub><i>(Freelance)</i></sub></h3>
       <p>A Machine Learning-powered web app that predicts the best hobbies for kids (ages 5-12) based on personality traits and behavioral inputs. Delivered as a freelance project.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Freelance%20Project-6A0DAD?style=for-the-badge&logo=upwork&logoColor=white"/>
+       <p>
+        <a href="https://github.com/Raghavendra0348/Kids_Hobby_Prediction" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </p>
       <p><b>Stack:</b> Python · scikit-learn · React · Node.js</p>
     </td>
