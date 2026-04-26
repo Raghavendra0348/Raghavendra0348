@@ -15,12 +15,6 @@
 <a href="https://portfolio-raghavendra.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://github.com/Raghavendra0348" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/your_username" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
 <br/><br/>
 
