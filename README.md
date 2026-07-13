@@ -31,7 +31,7 @@
 name       : Raghavendra Arella
 location   : India
 education  : B.Tech Engineering - 2nd Year
-role       : Full Stack Developer & Freelancer
+role       : Web Developer & Freelancer
 focus      : Web Development | AI/ML Projects
 currently  : Learning React & Node.js/Express
 ```
