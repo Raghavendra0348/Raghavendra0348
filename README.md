@@ -76,56 +76,88 @@ currently  : Learning React & Node.js/Express
 </p>
 
 ---
-
 ## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Rural AI Care</h3>
-      <p>An AI-powered health checker designed for rural communities — helping users identify potential health concerns using AI analysis. Built to bridge the healthcare gap in underserved areas.</p>
+      <h3>Amazon Clone</h3>
+      <p>A full-stack e-commerce app with an Amazon-inspired storefront and an admin dashboard.</p>
+      <ul>
+        <li>Product search, filters, sorting, reviews, and wishlists</li>
+        <li>Cart, saved addresses, Razorpay payments, and Cash on Delivery</li>
+        <li>Order tracking and management of products, inventory, users, and orders</li>
+      </ul>
+      <p><b>Stack:</b> React · Tailwind CSS · Node.js · Express · PostgreSQL · Prisma · Razorpay</p>
       <p>
-        <a href="https://ruralcareai-joo7.onrender.com/" target="_blank">
-          <img src="https://img.shields.io/badge/View%20App-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+        <a href="https://amazon-clone-e-commerce-18.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-FF9900?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Amazon Clone live demo"/>
+        </a>
+        <a href="https://github.com/Raghavendra0348/E_commerce">
+          <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Amazon Clone source code"/>
         </a>
       </p>
-      <p><b>Stack:</b> Python · AI/ML · Web</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Vending Machine Website</h3>
-      <p>An interactive vending machine web interface simulating the complete product selection & purchase flow. A fun but technically solid frontend project.</p>
+      <h3>DSA Prep Platform</h3>
+      <p>An interview preparation platform for organizing coding practice and tracking progress.</p>
+      <ul>
+        <li>LeetCode questions grouped by company, topic, difficulty, and recency</li>
+        <li>Structured DSA roadmap, global search, bookmarks, and personal notes</li>
+        <li>Authenticated dashboards with progress tracking and practice analytics</li>
+      </ul>
+      <p><b>Stack:</b> React · TanStack Query · Node.js · Express · PostgreSQL · Prisma · JWT</p>
       <p>
-        <a href="https://github.com/Raghavendra0348/project_k" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <a href="https://dsa-preparation-platform.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-C74528?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DSA Prep Platform live demo"/>
+        </a>
+        <a href="https://github.com/Raghavendra0348/DSA_Prep_Platform">
+          <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="DSA Prep Platform source code"/>
         </a>
       </p>
-      <p><b>Stack:</b> HTML · CSS · JavaScript</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Kids Hobby Predictor <sub><i>(Freelance)</i></sub></h3>
-      <p>A Machine Learning-powered web app that predicts the best hobbies for kids (ages 5-12) based on personality traits and behavioral inputs. Delivered as a freelance project.</p>
-       <p>
-        <a href="https://github.com/Raghavendra0348/Kids_Hobby_Prediction" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <p>A hobby recommendation app for children aged 5–12, based on questionnaire responses about their interests and behavior.</p>
+      <ul>
+        <li>Questionnaire covering academic, sports, arts, health, and behavioral interests</li>
+        <li>Random Forest model selected after comparing multiple classification models</li>
+        <li>User accounts, prediction history, feedback, and analytics dashboards</li>
+      </ul>
+      <p><b>Stack:</b> React · Python · Django · Django REST Framework · scikit-learn · SQLite · JWT</p>
+      <p>
+        <a href="https://kids-hobby-prediction-new.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-1A3DE8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Kids Hobby Predictor live demo"/>
+        </a>
+        <a href="https://github.com/Raghavendra0348/Kids_Hobby_Prediction_New">
+          <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kids Hobby Predictor source code"/>
         </a>
       </p>
-      <p><b>Stack:</b> Python · scikit-learn · React · Node.js</p>
     </td>
     <td width="50%" valign="top">
       <h3>Portfolio Website</h3>
-      <p>My personal developer portfolio showcasing projects, skills, and freelance work — built and deployed on Vercel.</p>
+      <p>My personal developer portfolio presenting projects, technical skills, and freelance work.</p>
+      <ul>
+        <li>Responsive layouts with animated navigation</li>
+        <li>Scroll-based project walkthroughs with live demos and source links</li>
+        <li>Resume access and an EmailJS contact form with an email fallback</li>
+      </ul>
+      <p><b>Stack:</b> React · Vite · Tailwind CSS · Framer Motion · EmailJS · Vercel</p>
       <p>
-        <a href="https://portfolio-raghavendra.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        <a href="https://portfolio-raghavendra.vercel.app/">
+          <img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/>
+        </a>
+        <a href="https://github.com/Raghavendra0348/portfolio-Raghavendra">
+          <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio source code"/>
         </a>
       </p>
-      <p><b>Stack:</b> HTML · CSS · JavaScript · Vercel</p>
     </td>
   </tr>
 </table>
 
+---
 ---
 
 ## GitHub Stats
